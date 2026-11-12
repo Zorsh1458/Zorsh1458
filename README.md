@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<img src="https://github.com/Zorsh1458/ZorshDeltarune/blob/master/preview.png?raw=true">
+<img src="http://213.171.18.152:22015/image">
